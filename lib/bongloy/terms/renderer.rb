@@ -5,6 +5,10 @@ class Bongloy::Terms::Renderer
     render_markdown("#{country}_terms", locale)
   end
 
+  def privacy(country = :kh, locale = :en)
+    render_markdown("#{country}_privacy", locale)
+  end
+
   private
 
   def render_markdown(file_id, locale)

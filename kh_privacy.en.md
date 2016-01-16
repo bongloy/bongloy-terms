@@ -1,0 +1,110 @@
+## Privacy Policy for Cambodia
+
+This policy was last updated on January 16, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/terms).
+
+## Welcome to Bongloy!
+
+Bongloy ("we", "us" or "our") developed this service to make it easy for you to accept payments online so you can focus on your own product or service. We understand that privacy is important to both our online visitors and registered users. We respect your privacy and will take reasonable steps to protect your information.
+
+This Privacy Policy will help you understand the following:
+
+1. [What does this Privacy Policy apply to?](#1-what-does-this-privacy-policy-apply-to)
+2. [Information collection and use](#2-information-collection-and-use)
+3. [Sharing and disclosure of information](#3-sharing-and-disclosure-of-information)
+4. [Choice and data retention](#4-choice-and-data-retention)
+5. [Protection of information](#5-protection-of-information)
+6. [Changes and notifications](#6-changes-and-notifications)
+7. [Contact us](#7-contact-us)
+
+
+Please also review, if applicable, your [Terms of Service](http://bongloy.com/terms) agreement with Bongloy, which shall govern in the event of any inconsistency with this Privacy Policy.
+
+## 1.  What does this Privacy Policy apply to?
+
+Bongloy, Inc. is located at 49E03 Sihanouk Blvd, Phnom Penh, Cambodia. This Policy applies to the bongloy.com website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all software and services that we offer, including the Bongloy Checkout form that may be made available on a third-party website, or other services that we offer through our Website when you register for a Bongloy account (collectively referred to as the "Services").
+
+This Policy does not apply to any website, product or service of any third-party company even if the website links to (or is linked from) our Website. Bongloy does not operate or control those websites, products or services. Please always review the privacy practices of a company before deciding whether to provide any information.
+
+By using our Website or Services, you are accepting the practices described in this Policy. If you do not agree with this Policy, delete all cookies from your browser cache after visiting our Website and do not visit or use our Website or Services. Your continued use of our Website or Services signifies your acceptance of this Policy.
+
+## 2. Information collection and use
+
+Broadly speaking, we collect information in three ways: (1) when you provide it directly to us, (2) when we obtain verification information about you or your company through trusted third parties (e.g. banks, credit bureaus), and (3) passively through technology such as "cookies". The types of information that we collect and our use of that information will depend on whether you are a Website Visitor, Test User, Checkout User, or Live User, as described below.
+
+### Personal Information
+
+The term "Personal Information", as used in this Policy, refers to any information that can be used to identify a specific person, or any anonymous information (e.g., IP Address) that is linked to a specific person. Personal information does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.
+
+### Cookies and Web Server Logs
+
+Similar to many commercial websites, we utilize "cookies" and other technologies to collect non-personally-identifiable information from our Website and from other websites that use Bongloy Checkout. "Cookies" are a feature of web browser software that allows web servers to recognize the computer used to access a website. Cookies store information accessed through your browser to streamline activities on related web sites, and make the online experience easier and more personalized. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at a site. We use cookie data to measure web traffic and usage activity on our Website for purposes of improving and enhancing the functionality of our Website, to look for possible fraudulent activity, and to better understand the sources of traffic and transactions on our website and the websites of merchants that use Bongloy Checkout. Cookies also allow our servers to remember your account information for future visits and to provide personalized and streamlined information across related pages on our Website and also across other websites or applications that use Bongloy Checkout. Log files are used to monitor, measure, analyze, improve, and troubleshoot our Services. You can choose to disable cookies for our Website but this may limit your ability to use our Website and Services; see below in [Section 4. ("Choice and data retention")](#4-choice-and-data-retention).
+
+In order to understand and improve the effectiveness of our advertising, we may also use web beacons, cookies, and other technology to identify the fact that you have visited our Website or seen one of our advertisements, and we may provide that information to one or more third party advertising networks. The information we provide may include the time and date of your visit to our website, pages viewed, links clicked and other non-personally identifying information. Those advertising networks may recognize the web beacon or cookie associated with your visit to our Website when you visit other websites on which they serve advertising, and they may make decisions about the advertisements you see based on it. We may choose to work with Google AdWords, Doubleclick, AdRoll or other advertising networks. Each of these companies has its own privacy policy, which we encourage you to review. For more information about advertising and tracking online, visit the [Network Advertising Initiative](http://www.networkadvertising.org). This website allows consumers to "opt out" of the behavioral advertising delivered by member companies. Additional information on that program can be found [here](http://www.networkadvertising.org/choices).
+
+### Website Visitors
+
+To simply browse our Website, you are not required to provide any Personal Information. However, we may gather non-personally-identifiable information, as described directly above, just for the purposes of monitoring and improving our Website and Services. We will not share this information with third parties except as a necessary part of providing our Website and Services, nor will we use it to target any advertisements to you.
+
+### Checkout Users
+
+When you use Bongloy Checkout on a merchant's website to store your payment credentials, we will gather and store your payment card information, your email address, your mobile phone number, and billing and shipping address. We will use this information to complete purchases that you choose to make on other websites or applications that also use Bongloy Checkout, but only with your permission. We may also share your contact information, but not your card information, with merchants as part of your purchases. We will not share this information with other third parties except as a necessary part of providing our Website and Services. You should carefully review merchants' privacy policies to better understand how each uses your information.
+
+### Test Users
+
+When you visit Bongloy, you have the ability to conduct a limited number of "test" transactions and experience the Services working – without registering for a Bongloy account. To monitor these test transactions, we collect your IP address, information about your computer, and other standard web log information. We also collect your Personal Information and any credit card information you provide to conduct the test transactions. We will not use this information to target any advertisements to you. We will share and disclose the Personal Information and credit card information only as described below in [Section 3 ("Sharing and disclosure of information")](#3-sharing-and-disclosure-of-information).
+
+### Live Users
+
+To gain full access to our Website and Services, you must register for a Bongloy account. When you register for an account, we collect Personal Information when you voluntarily provide it to us, such as the following:
+
+1. Your name, company name, location, email address, and phone number, and account password, to set up your account
+
+2. Your business and personal tax information, or other government-issued identification or identification numbers, as well as your date of birth, to verify your identity for underwriting purposes
+
+3. Your bank account information, to settle funds for your transactions
+
+4. Your IP addresses, devices, and locations used to access Bongloy, which will be linked to your account for fraud detection/prevention purposes
+
+5. We may retrieve additional Personal Information about you from third parties and other identification/verification services. With your consent, we may also collect additional Personal Information in other ways including emails, surveys, and other forms of communication. Once you begin using the Service through your Bongloy account, we will keep records of your transactions and collect information of your other activities related to our Services. The foregoing Personal Information will be shared and disclosed as described below in [Section 3 ("Sharing and disclosure of information")](#3-sharing-and-disclosure-of-information).
+
+### Children's Online Privacy Protection Act
+
+Our Website and Services are directed to the general public. We do not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that children under the age of 13 are accessing our Website or using our Services. If we learn that we have inadvertently collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please [contact us.](mailto:contact@bongloy.com)
+
+## 3. Sharing and disclosure of information
+
+Bongloy does not sell or rent your Personal Information to marketers or third parties.
+
+We may share your Personal Information with trusted third parties who are integral to the operation of our Website and Services, including but not limited to financial institutions, payment processors, verification services and credit bureaus, as well as any third parties that you have directly authorized to receive your Personal Information. We may store your Personal Information in locations outside the direct control of Bongloy, for instance, on servers or databases co-located with hosting providers.
+
+If you authorize an application to access your Bongloy account using Bongloy Connect, you acknowledge that we may share payment transaction data and related information with the third party that provides the authorized application. The use of your information by such third party will be subject to their applicable privacy policy, which you should carefully review.
+
+We may disclose your Personal Information to law enforcement, government officials, or other third parties if: (i) we are compelled to do so by subpoena, court order or other legal process, (ii) we must do so to comply with laws, statutes, rules or regulations, including credit card rules, (iii) we believe in good faith that the disclosure is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms of Service.
+
+We will only disclose your Personal Information in response to such a request if we believe in good faith that doing so is necessary to comply with applicable law or a legal obligation to which we are bound. If we receive such a request, we will use reasonable efforts to give you prompt notice, so that you may contest it if you choose. We won't provide you such notice if we determine in good faith that either (a) we are not permitted to provide it under applicable law, or (b) that doing so would result in an imminent risk of death, serious physical injury or significant property loss or damage to Bongloy or a third party.
+
+In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar events, any information in our possession may be transferred to our successor or assign.
+
+## 4. Choice and data retention
+
+We are required to collect certain Personal Information to confirm your identity and comply with our obligations. If you elect to not provide Personal Information in optional fields it may limit your ability to use our Services. You can update your account information by signing on to our Website with your Bongloy account.
+
+We may occasionally email you with information about offers or new services. You can opt out of these email communications by replying with unsubscribe in the subject line, or via an unsubscribe link included in such communications. However, you will continue to receive certain email communications related to your account including information regarding transactions and your relationship with Bongloy.
+
+If you wish to opt out of having cookies set on your browser (as described above in [Section 2](#2-information-collection-and-use), the only way to ensure that this happens is to manage the settings on your web browser to delete all cookies and disallow further acceptance of cookies. For more information, refer to your browser's technical information. You may also consider visiting [aboutcookies.org](http://www.aboutcookies.org), which provides helpful information about cookies. Note that disabling cookies on your browser prevents Bongloy from tracking your activities in relation to our Website and Services. However, it may also disable many of the features available through our Websites and Services. We therefore recommend that you leave cookies enabled.
+
+Bongloy has a variety of obligations to retain the data that you provide us, both to ensure that transactions can be appropriately processed, settled, refunded or charged back, to identify fraud, and also to comply with laws applicable to us and to our banking providers and credit card processors. Accordingly, even if you close your Bongloy account we will retain certain information as necessary to meet our obligations.
+
+## 5. Protection of information
+
+Although no data transmission can be guaranteed to be 100% secure, we take reasonable steps to protect all Personal Information. Bongloy maintains strict administrative, technical, and physical procedures to protect information stored in our servers, which are located in the Singapore. Access to information is limited (through user/password credentials and software systems) to those employees who require it to perform their job functions. We use industry-standard Secure Socket Layer (SSL) encryption technology to safeguard the account registration process and sign-up information. Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to building and files.
+
+## 6. Changes and notifications
+
+We reserve the right, in our sole and absolute discretion, to make changes to this Policy from time to time. Please review this Policy periodically to check for updates. If any changes are material and/or retroactive, we may provide additional notice and/or an opportunity to "opt-in" as appropriate under the circumstances.
+
+Bongloy will provide you with disclosures and alerts regarding this Policy by posting them on our Website, by emailing the email address listed in your Bongloy account, and/or by mailing to the physical address listed in your Bongloy Account. You agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. Such disclosures and notices in relation to this Policy shall be considered to be received by you within 24 hours of the time it is posted to our Website or emailed to you (unless we receive notice that the email was not delivered).
+
+## 7. Contact us
+
+If you have any questions or suggestions about this Privacy Policy or any of our privacy-related practices, please [contact us.](mailto:contact@bongloy.com)
