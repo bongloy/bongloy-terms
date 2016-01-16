@@ -34,6 +34,8 @@ end
 
 Then you can use it in your views like
 
-```html
+```erb
   <%= bongloy_terms_renderer.terms(:kh, :en).html_safe %>
+  <%= bongloy_terms_renderer.privacy(:kh, :en).html_safe %>
+  <%= bongloy_terms_renderer.prohibited_businesses(:kh, :en).html_safe %>
 ```
