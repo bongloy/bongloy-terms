@@ -8,7 +8,6 @@ Welcome to Bongloy. We developed a payment service (the "Bongloy Payments") to m
 
 We have tried to draft these Merchant Terms of Service to be readable, but should you have any questions or concerns or would simply like to better understand how we do things at Bongloy, please do not hesitate to [contact us](mailto:contact@bongloy.com).
 
-
 Below is a quick description of the sections in this Agreement, but there are important details in the whole document, so you should read it.
 
 ## The Bongloy Services
@@ -35,7 +34,7 @@ The Terms and Conditions described here constitute a legal agreement ("Agreement
 
 ### 1. Our Role
 
-Bongloy Payments helps you accept and process credit card, debit card and other types of payments (collectively "Cards") from your customers who want to pay you for products or services or give donations. Bongloy's card processing service supports US-issued card and most non-US issued cards with a Visa, MasterCard, Discover, UnionPay, JCB, or American Express logo (collectively "the Card Networks") including credit, debit, pre-paid, or gift cards. Bongloy is not a bank or a money services business ("MSB") and Bongloy does not offer banking or MSB services. In addition, we do not assume any liability for the products or services purchased using Bongloy Payments. You will be required to register with Bongloy to use Bongloy Payments (see [Registering for Bongloy](#section-b-registering-for-bongloy)).
+Bongloy Payments helps you accept and process credit card, debit card and other types of payments (collectively "Cards") from your customers who want to pay you for products or services or give donations. Bongloy's card processing service supports US-issued card and most non-US issued cards with a Visa, MasterCard, Discover, UnionPay, JCB, or American Express logo (collectively "the Card Networks") including credit, debit, pre-paid, or gift cards. Bongloy is not a bank or a money transfer or remittance business ("MTRB") and Bongloy does not offer banking or MTRB services under any relevant law. In addition, we do not assume any liability for the products or services purchased using Bongloy Payments. You will be required to register with Bongloy to use Bongloy Payments (see [Registering for Bongloy](#section-b-registering-for-bongloy)).
 
 ### 2. Bongloy Payments
 
