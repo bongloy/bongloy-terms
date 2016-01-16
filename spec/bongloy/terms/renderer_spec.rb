@@ -8,4 +8,8 @@ describe Bongloy::Terms::Renderer do
   describe "#privacy(country, locale)" do
     it { expect(subject.privacy).to be_a(String) }
   end
+
+  describe "#prohibited_businesses(country, locale)" do
+    it { expect(subject.prohibited_businesses).to be_a(String) }
+  end
 end

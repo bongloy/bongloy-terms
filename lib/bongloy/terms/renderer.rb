@@ -9,6 +9,10 @@ class Bongloy::Terms::Renderer
     render_markdown("#{country}_privacy", locale)
   end
 
+  def prohibited_businesses(country = :kh, locale = :en)
+    render_markdown("#{country}_prohibited_businesses", locale)
+  end
+
   private
 
   def render_markdown(file_id, locale)
