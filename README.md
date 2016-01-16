@@ -6,6 +6,10 @@ Bongloy's terms of service. Browse here for previous versions and diffs.
 
 * Terms of Service - Cambodia - [website](http://bongloy.com/terms) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_terms.en.md)
 
+* Privacy Policy - Cambodia - [website](http://bongloy.com/privacy) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_privacy.en.md)
+
+* Prohibited Businesses - Cambodia - [website](http://bongloy.com/prohibited_businesses) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_prohibited_businesses.en.md)
+
 ## Installation
 
 Add this line to your application's Gemfile:
