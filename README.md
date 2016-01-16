@@ -2,6 +2,8 @@
 
 Bongloy's terms of service. Browse here for previous versions and diffs.
 
+* Terms of Service - Cambodia - [website](http://bongloy.com/terms) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_terms.en.md)
+
 ## Installation
 
 Add this line to your application's Gemfile:
