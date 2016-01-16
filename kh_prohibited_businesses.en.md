@@ -231,4 +231,4 @@ By registering for Bongloy, you are confirming that you will not use the Service
   </tbody>
 </table>
 
-If you have any questions about supported businesses, don't hesitate to [get in touch](mailto:contact@bongloy.com)
+If you have any questions about supported businesses, don't hesitate to [get in touch](mailto:contact@bongloy.com).
