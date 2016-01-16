@@ -1,5 +1,7 @@
 # Bongloy's Terms of Service
 
+[![Build Status](https://travis-ci.org/bongloy/bongloy-terms.svg?branch=master)](https://travis-ci.org/bongloy/bongloy-terms)
+
 Bongloy's terms of service. Browse here for previous versions and diffs.
 
 * Terms of Service - Cambodia - [website](http://bongloy.com/terms) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_terms.en.md)
