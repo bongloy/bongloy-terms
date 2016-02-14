@@ -1,6 +1,6 @@
 ## Privacy Policy - Cambodia
 
-Last updated on January 16, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/terms).
+Last updated on February 14, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
 
 ## Welcome to Bongloy!
 
