@@ -1,6 +1,6 @@
 ## Terms of Service - Cambodia
 
-Last Updated: January 16, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/terms).
+Last Updated: February 14, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
 
 ## About our terms of service
 
