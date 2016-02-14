@@ -1,6 +1,6 @@
 ## Prohibited Businesses - Cambodia
 
-Last updated on January 16, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/terms).
+Last updated on February 14, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
 
 The following categories of businesses and business practices are prohibited from using the Bongloy Service ("Prohibited Businesses"). Most Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please [contact us](mailto:contact@bongloy.com).
 
