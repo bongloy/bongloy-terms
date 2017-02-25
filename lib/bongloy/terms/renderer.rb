@@ -13,6 +13,10 @@ class Bongloy::Terms::Renderer
     do_render?(:prohibited_businesses)
   end
 
+  def self.render_fees_taxes?
+    do_render?(:fees_taxes)
+  end
+
   def terms(country = :kh, locale = :en)
     render_markdown("#{country}_terms", locale)
   end
@@ -25,6 +29,10 @@ class Bongloy::Terms::Renderer
     render_markdown("#{country}_prohibited_businesses", locale)
   end
 
+  def fees_taxes(country = :kh, locale = :en)
+    render_markdown("#{country}_fees_taxes", locale)
+  end
+
   def render_terms?
     self.class.render_terms?
   end
@@ -35,6 +43,10 @@ class Bongloy::Terms::Renderer
 
   def render_prohibited_businesses?
     self.class.render_prohibited_businesses?
+  end
+
+  def render_fees_taxes?
+    self.class.render_fees_taxes?
   end
 
   private

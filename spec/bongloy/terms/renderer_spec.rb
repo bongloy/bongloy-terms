@@ -15,7 +15,11 @@ describe Bongloy::Terms::Renderer do
     it { expect(subject.prohibited_businesses).to be_a(String) }
   end
 
-  [:terms, :privacy, :prohibited_businesses].each do |page|
+  describe "#fees_taxes(country, locale)" do
+    it { expect(subject.fees_taxes).to be_a(String) }
+  end
+
+  [:terms, :privacy, :prohibited_businesses, :fees_taxes].each do |page|
     it { is_expected.to respond_to(:"render_#{page}?") }
 
     describe ".render_#{page}?" do
