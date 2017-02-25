@@ -10,29 +10,24 @@ Bongloy's standard transaction fee is 3.9% + $0.40 per successful transaction (V
 
 The VAT inclusive transaction fee is calculated as follows:
 
-```
-tf = 1.1 x (0.039 * ta + 0.40)
-```
+    tf = 1.1 x (0.039 * ta + 0.40)
 
 where:
-tf = Bongloy Transaction Fee
+
+    tf = Transaction Fee
 
 For example the VAT inclusive transaction fee on a $100.00 transaction is:
 
-```
-tf = 1.1 x (0.039 * $100.00 + 0.40)
-tf = 1.1 x ($3.90 + $0.40)
-tf = 1.1 x $4.30
-tf = $4.73
-```
+    tf = 1.1 x (0.039 * $100.00 + 0.40)
+    tf = 1.1 x ($3.90 + $0.40)
+    tf = 1.1 x $4.30
+    tf = $4.73
 
 To calculate amount the VAT in the transaction fee:
 
-```
-vat = 0.1 x tf / 1.1
-vat = 0.1 x $4.73 / 1.1
-vat = $0.43
-```
+    vat = 0.1 x tf / 1.1
+    vat = 0.1 x $4.73 / 1.1
+    vat = $0.43
 
 ### Taxes
 
@@ -46,47 +41,39 @@ For businesses or individuals *not* registered with the General Department of Ta
 
 The Withholding Tax is applied as follows:
 
-```
-wt = 0.15 x ta
-```
+    wt = 0.15 x ta
 
 where:
-wt = Withholding Tax
-ta = Transaction Amount
+
+    wt = Withholding Tax
+    ta = Transaction Amount
 
 For example the Withholding Tax (wt) applied on a $100.00 transaction is:
 
-```
-wt = 0.15 x $100.00
-wt = $15.00
-```
+    wt = 0.15 x $100.00
+    wt = $15.00
 
 To include the Withholding Tax in the price of your product or service you can use the following formula:
 
-```
-wt = 0.15 x ta
-wt + p = ta
-(0.15 x ta) + p = ta
-p = ta - (0.15 x ta)
-p = 0.85 x ta
-ta = p / 0.85
-```
+    wt = 0.15 x ta
+    wt + p = ta
+    (0.15 x ta) + p = ta
+    p = ta - (0.15 x ta)
+    p = 0.85 x ta
+    ta = p / 0.85
 
 where:
-ta = Transaction Amount
-p = Price of Product or Service
+
+    ta = Transaction Amount
+    p  = Price of Product or Service
 
 For example if your product or service costs $100.00 then the transaction amount is:
 
-```
-ta = p / 0.85
-ta = $100.00 / 0.85
-ta = $117.65
-```
+    ta = p / 0.85
+    ta = $100.00 / 0.85
+    ta = $117.65
 
 which gives the following Withholding Tax:
 
-```
-wt = 0.15 x $117.65
-wt = $17.65
-```
+    wt = 0.15 x $117.65
+    wt = $17.65
