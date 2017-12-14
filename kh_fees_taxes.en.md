@@ -1,12 +1,12 @@
 ## Fees and Taxes - Cambodia
 
-Last updated on February 25, 2017. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
+Last updated on December 14, 2017. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
 
 ### Fees
 
-Bongloy declares *all* fees charged as revenue. Since Bongloy is providing a service VAT applies. If your business is registered with the General Department of Taxation you can claim this VAT back as an expense.
+Bongloy declares *all* fees charged as revenue. Since Bongloy is providing a service VAT applies. If your business is registered with the General Department of Taxation (GDT) you can claim this VAT back as an expense.
 
-Bongloy's standard transaction fee is 3.9% + $0.40 per successful transaction (VAT exclusive).
+While Bongloy is in private beta, our standard transaction fee is 3.9% + $0.40 per successful transaction (VAT exclusive).
 
 The VAT inclusive transaction fee is calculated as follows:
 
@@ -15,6 +15,7 @@ The VAT inclusive transaction fee is calculated as follows:
 where:
 
     tf = Transaction Fee
+    ta = Transaction Amount
 
 For example the VAT inclusive transaction fee on a $100.00 transaction is:
 
@@ -35,9 +36,9 @@ Bongloy declares *all* revenue earned by your business as an expense.
 
 This means the following:
 
-For businesses registered with the General Department of Taxation, Bongloy will provide your business' VAT TIN when declaring the expense. It's your business' responsibility to pay the appropriate VAT if applicable. If VAT is applicable for your business you should include it in the price of your product service.
+For businesses registered with the General Department of Taxation (GDT), Bongloy will provide your business' VAT TIN when declaring the expense. It's your business' responsibility to pay the appropriate VAT if applicable. If VAT is applicable for your business you should include it in the price of your product service.
 
-For businesses or individuals *not* registered with the General Department of Taxation 15% Withholding Tax applies on all transactions.
+For businesses or individuals *not* registered with the General Department of Taxation (GDT) a 15% Withholding Tax applies on all transactions.
 
 The Withholding Tax is applied as follows:
 
