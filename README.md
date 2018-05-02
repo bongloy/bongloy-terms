@@ -10,6 +10,8 @@ Bongloy's terms of service. Browse here for previous versions and diffs.
 
 * Prohibited Businesses - Cambodia - [website](http://bongloy.com/prohibited_businesses) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_prohibited_businesses.en.md)
 
+* High Risk MCC Categories - [website](http://bongloy.com/high_risk_mcc_categories) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_high_risk_mcc_categories.en.md)
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -35,7 +37,9 @@ end
 Then you can use it in your views like
 
 ```erb
-  <%= bongloy_terms_renderer.terms(:kh, :en).html_safe %>
-  <%= bongloy_terms_renderer.privacy(:kh, :en).html_safe %>
-  <%= bongloy_terms_renderer.prohibited_businesses(:kh, :en).html_safe %>
+  <%= bongloy_terms_renderer.render('terms').html_safe %>
+  <%= bongloy_terms_renderer.render('privacy').html_safe %>
+  <%= bongloy_terms_renderer.render('prohibited_businesses').html_safe %>
+  <%= bongloy_terms_renderer.render('high_risk_mcc_categories').html_safe %>
+
 ```
