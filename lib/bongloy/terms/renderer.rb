@@ -1,21 +1,25 @@
-require 'redcarpet'
+require "redcarpet"
 
-class Bongloy::Terms::Renderer
-  def render(page, country: :kh, locale: :en)
-    markdown.render(File.read(path_to_root("#{country}_#{page}.#{locale}.md")))
-  end
-  
-  private
+module Bongloy
+  module Terms
+    class Renderer
+      def render(page, country: :kh, locale: :en)
+        markdown.render(File.read(path_to_root("#{country}_#{page}.#{locale}.md")))
+      end
 
-  def markdown
-    @markdown ||= Redcarpet::Markdown.new(html_renderer, tables: true)
-  end
+      private
 
-  def html_renderer
-    @html_renderer ||= Redcarpet::Render::HTML.new(with_toc_data: true)
-  end
+      def markdown
+        @markdown ||= Redcarpet::Markdown.new(html_renderer, tables: true)
+      end
 
-  def path_to_root(filename)
-    File.join(File.expand_path('../..', File.dirname(__dir__)), filename)
+      def html_renderer
+        @html_renderer ||= Redcarpet::Render::HTML.new(with_toc_data: true)
+      end
+
+      def path_to_root(filename)
+        File.join(File.expand_path("../..", File.dirname(__dir__)), filename)
+      end
+    end
   end
 end
