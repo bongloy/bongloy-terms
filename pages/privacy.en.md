@@ -1,6 +1,6 @@
 ## Privacy Policy - Cambodia
 
-Last updated on February 14, 2016. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
+Last updated on August 15, 2019. Previous versions and diffs are [available here](http://github.com/bongloy/bongloy-terms).
 
 ## Welcome to Bongloy!
 
@@ -21,7 +21,7 @@ Please also review, if applicable, your [Terms of Service](http://bongloy.com/te
 
 ## 1.  What does this Privacy Policy apply to?
 
-Bongloy, Inc. is located at 49E03 Sihanouk Blvd, Phnom Penh, Cambodia. This Policy applies to the bongloy.com website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all software and services that we offer, including the Bongloy Checkout form that may be made available on a third-party website, or other services that we offer through our Website when you register for a Bongloy account (collectively referred to as the "Services").
+Bongloy Payments PLC is located at #87, Street 63 (Trasak Paem), Sangkat Boeung Raing, Khan Daun Penh, Phnom Penh, Cambodia. This Policy applies to the bongloy.com website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all software and services that we offer, including the Bongloy Checkout form that may be made available on a third-party website, or other services that we offer through our Website when you register for a Bongloy account (collectively referred to as the "Services").
 
 This Policy does not apply to any website, product or service of any third-party company even if the website links to (or is linked from) our Website. Bongloy does not operate or control those websites, products or services. Please always review the privacy practices of a company before deciding whether to provide any information.
 

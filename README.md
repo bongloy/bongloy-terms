@@ -4,14 +4,6 @@
 
 Bongloy's terms of service. Browse here for previous versions and diffs.
 
-* Terms of Service - Cambodia - [website](http://bongloy.com/terms) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_terms.en.md)
-
-* Privacy Policy - Cambodia - [website](http://bongloy.com/privacy) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_privacy.en.md)
-
-* Prohibited Businesses - Cambodia - [website](http://bongloy.com/prohibited_businesses) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_prohibited_businesses.en.md)
-
-* High Risk MCC Categories - [website](http://bongloy.com/high_risk_mcc_categories) | [github](https://github.com/bongloy/bongloy-terms/blob/master/kh_high_risk_mcc_categories.en.md)
-
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -41,5 +33,4 @@ Then you can use it in your views like
   <%= bongloy_terms_renderer.render('privacy').html_safe %>
   <%= bongloy_terms_renderer.render('prohibited_businesses').html_safe %>
   <%= bongloy_terms_renderer.render('high_risk_mcc_categories').html_safe %>
-
 ```
