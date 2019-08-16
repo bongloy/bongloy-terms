@@ -38,7 +38,8 @@ Your Card must be activated. To activate your Card, launch the mobile applicatio
 After you activate your Card via the mobile application, you will request to set a 6 digit PIN. You should not write or keep your PIN with your Card. Never share your PIN with anyone. When entering your PIN, be sure it cannot be observed by others and do not enter your PIN into any terminal that appears to be modified or suspicious. If you believe that anyone has gained unauthorized access to your PIN, you should advise us immediately following the procedures in the paragraph labeled "Your Liability for Unauthorized Transfers." At any time, you can launch your application to disable the card or reset the PIN.
 
 
-Authorized Card Users
+### Authorized Card Users
+
 You are responsible for all authorized transactions initiated and fees incurred by use of your Card. If you permit another person to have access to your Card or Card number, we will treat this as if you have authorized such use and you will be liable for all transactions and fees incurred by those persons. You are wholly responsible for the use of each Card according to the terms and conditions of this Agreement.
 
 
