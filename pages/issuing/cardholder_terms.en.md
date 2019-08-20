@@ -1,6 +1,6 @@
 # CARDHOLDER'S AGREEMENT
 
-### *IMPORTANT – PLEASE READ CAREFULLY*
+**IMPORTANT – PLEASE READ CAREFULLY**
 
 Terms and Conditions/Definitions for the BONGLOY UnionPay International Prepaid Card.
 
@@ -20,7 +20,7 @@ You acknowledge and agree that the value available in the Card Account is limite
 
 Write down your Card number and the customer service phone number provided in this Agreement on a separate piece of paper in case your Card is lost, stolen, or destroyed. Keep the paper in a safe place. Please read this Agreement carefully and keep it for future reference.
 
-### IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW CARD ACCOUNT
+## IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW CARD ACCOUNT
 
 To help the government fight the funding of terrorism and money laundering activities, Cambodia law, requires all financial institutions to obtain, verify, and record information that identifies each person who opens a Card Account. What this means for you: When you open a Card Account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see a copy of your national ID or passport, or other identifying documents.
 
@@ -36,7 +36,7 @@ After you activate your Card via the mobile application, you will request to set
 
 You are responsible for all authorized transactions initiated and fees incurred by use of your Card. If you permit another person to have access to your Card or Card number, we will treat this as if you have authorized such use and you will be liable for all transactions and fees incurred by those persons. You are wholly responsible for the use of each Card according to the terms and conditions of this Agreement.
 
-## Secondary Cardholder
+### Secondary Cardholder
 
 You may not request an additional Card for another person. Each family member must have their own Card Account.
 
@@ -51,26 +51,22 @@ By activating the Card or by retaining, using or authorizing the use of the Card
  (v) you received a copy of this Agreement and agree to be bound by and to comply     with its terms; and complete;
  (vi) you accept the Card.
 
-
 A minor less than 15 years of age or without a government issued photo ID; a legal guardian must submit a parental sponsorship application before the card is activated. 
 
 ### Cash Access
 
 With your PIN, you may use your Card to obtain cash from any Automated Teller Machine ("ATM") or any Point-of-Sale ("POS") device that supports cash-out, as permissible by a merchant, that bears the UnionPay<sup>®</sup> or BONGLOY<sup>®</sup> Acceptance Mark. All ATM transactions are treated as cash withdrawal transactions.  
 
-
-
-
 | Type of card                                  | Prepaid Card | Virtual        |
 |:---------------------------------------------:|:------------:|:--------------:|
-| Cash withdrawal limit (per day)               | $1000        | Not Applicable |
-| Purchase limit-Off line (per day)             | $2,500       | $2,500         |
-| Purchase limit-On line (per day)              | $500         | $500           |
+| Cash withdrawal limit (per day)               | US$1000      | Not Applicable |
+| Purchase limit-Off line (per day)             | US$2,500     | US$2,500       |
+| Purchase limit-On line (per day)              | US$500       | US$500         |
 | Maximum cash withdrawal transaction (per day) | 2 times      | Not Applicable |
 
 ### Loading Your Card
 
-You may add funds to your Card, called "value loading", at any time. The minimum amount of the initial value load is US5.00. The Card must be loaded for at least the minimum amount at the time the Card is purchased at the branch location. The minimum amount of each value reload is US5.00 via agent partner or online via the consumer website. The maximum amount of the initial value load at the time of Card purchase is US500.00 at the agent partner location. The maximum amount of each value reload is US2,500.00. Online via the consumer website the maximum reload amount is US500.00 per transaction; up to US$2,500.00 per day. You may add value or load your Card via the website, [https://bongloy.com/card/prepaid](https://bongloy.com/card/prepaid).
+You may add funds to your Card, called "value loading", at any time. The minimum amount of the initial value load is US$$5.00$. The Card must be loaded for at least the minimum amount at the time the Card is purchased at the branch location. The minimum amount of each value reload is US$$5.00$ via agent partner or online via the consumer website. The maximum amount of the initial value load at the time of Card purchase is US$$500.00$ at the agent partner location. The maximum amount of each value reload is US$$2,500.00$. Online via the consumer website the maximum reload amount is US$$500.00$ per transaction; up to US$2,500.00 per day.
 
 ### Using Your Card/Features
 
@@ -79,8 +75,6 @@ The maximum amount that can be spent on your Card per day is US$$2,500.00$. The 
 For security reasons, we may limit the amount or number of transactions you can make on your Card. Your Card cannot be redeemed for cash. You may not use your Card for online gambling or any illegal transaction.
 
 Each time you use your Card, you authorize us to reduce the value available in your Card Account by the amount of the transaction and any applicable fees. You are not allowed to exceed the available amount in your Card Account through an individual transaction or a series of transactions.
-
-
 
 Nevertheless, if a transaction exceeds the balance of the funds available on your Card, you shall remain fully liable to us for the amount of the transaction and any applicable fees.
 
@@ -92,7 +86,7 @@ If you are entitled to a refund for any reason for goods or services obtained wi
 
 ### Card Replacement
 
-If you need to replace your Card for any reason, please return to a branch of the financial institution where the Card was purchased to obtain an immediate replacement, or contact us at +855(0)23 532 0888 or https://bongloy.com/card/replacement to request a replacement Card be mailed to you. You will be required to provide personal information which may include your Card number, full name, transaction history, etc. There is a fee for replacing your Card. Refer to the fee schedule provided within this document.
+If you need to replace your Card for any reason, please return to a branch of the financial institution where the Card was purchased to obtain an immediate replacement, or contact us at +855(0)23 532 0888 to request a replacement Card be mailed to you. You will be required to provide personal information which may include your Card number, full name, transaction history, etc. There is a fee for replacing your Card. Refer to the fee schedule provided within this document.
 
 ### Card Transfers
 
@@ -108,13 +102,11 @@ You should get a receipt at the time you make a transaction using your Card. You
 
 ### Card Account Balance/Periodic Statements
 
-You are responsible for keeping track of your Card Account available balance. Merchants generally will not be able to determine your available balance. It’s important to know your available balance before making any transaction. You may obtain information about the amount of money you have remaining in your Card Account by calling +855(0)23 532 0888 or viewing the available balance in the App. This information, along with a sixty (60) day history of Card Account transactions, is also available online at https://bongloy.com.
+You are responsible for keeping track of your Card Account available balance. Merchants generally will not be able to determine your available balance. It’s important to know your available balance before making any transaction. You may obtain information about the amount of money you have remaining in your Card Account by calling +855(0)23 532 0888 or viewing the available balance in the App.
 
 ### Fee Schedule
 
 All fee amounts will be withdrawn from your Card Account and will be assessed as long as there is a remaining balance on your Card Account, except where prohibited by law. Anytime your remaining Card Account balance is less than the fee amount being assessed, the balance of your Card Account will be applied to the fee amount resulting in a zero balance on your Card Account.
-
-The fee schedule can be found at : https://bongloy.com/prepaidcard/feeschedule
 
 ### Confidentiality
 
@@ -126,9 +118,7 @@ We may disclose information to third parties about your Card or the transactions
 (5)     To our employees, auditors, affiliates, service providers, or attorneys as needed; or
 (6)     Otherwise as necessary to fulfill our obligations under this Agreement.
 
-
-
-**Our Liability for Failure to Complete Transactions**
+### Our Liability for Failure to Complete Transactions
 
 If we do not properly complete a transaction from your Card on time or in the correct amount according to our Agreement with you, we will be liable for your losses or damages. However, there are some exceptions. We will not be liable, for instance:
 (1)    If through no fault of ours, you do not have enough funds available on your Card to complete the transaction;
@@ -141,22 +131,23 @@ If we do not properly complete a transaction from your Card on time or in the co
 (8)     If circumstances beyond our control (such as fire, flood, or computer or communication failure) prevent the completion of the transaction, despite reasonable precautions that we have taken; or
 (9)     Any other exceptions stated in our Agreement with you.
 
+### Your Liability for Unauthorized Transfers
 
-
-**Your Liability for Unauthorized Transfers**
 Contact us at once if you believe your Card has been lost or stolen. Telephoning is the best way to minimize your possible losses. If you believe your Card has been lost or stolen, or that someone has transferred or may transfer money from your Card Account without your permission, call +855(0) 23 532 0888. If your Card has been lost or stolen, we will close your Card Account to keep losses down.
 
-**Other Miscellaneous Terms**
+### Other Miscellaneous Terms
 
 Your Card and your obligations under this Agreement may not be assigned. We may transfer our rights under this Agreement. Use of your Card is subject to all applicable rules and customs of any clearinghouse or other association involved in transactions. We do not waive our rights by delaying or failing to exercise them at anytime. If any provision of this Agreement shall be determined to be invalid or unenforceable under any rule, law, or regulation of any governmental agency, the validity or enforceability of any other provision of this Agreement shall not be affected. This Agreement will be governed by the law of the Kingdom of Cambodia.
 
-**Amendment and Cancellation**
+### Amendment and Cancellation
+
 We may amend or change the terms and conditions of this Agreement at any time. You will be notified of any change in the manner provided by applicable law prior to the effective date of the change. However, if the change is made for security purposes, we can implement such change without prior notice. We may cancel or suspend your Card or this Agreement at any time. You may cancel this Agreement by returning the Card to us. Your cancellation of this Agreement will not affect any of our rights or your obligations arising under this Agreement prior to termination.
 
 In the event that your Card Account is cancelled, closed, or terminated for any reason, you may request the unused balance to be returned to you via a check to the mailing address we have in our records. There is a fee for this service. Please refer to the fee schedule above. The Issuer reserves the right to refuse to return any unused balance amount less than $1.00.
 
-**Information About Your Right to Dispute Transactions**
-In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 or https://bongloy.com/card/dispute.  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
+### Information About Your Right to Dispute Transactions
+
+In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 or email.  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
 
 You agree to cooperate fully with our investigation and to provide any additional information or documentation we may need for the claim.
 
@@ -164,10 +155,12 @@ Once we have the required details, information, and/or documents, we will determ
 
 We will tell you the results in writing after completing our investigation. If we determine a discrepancy occurred we will correct the discrepancy promptly and credits the Card Account. If we decide there was no discrepancy, we will send you a written explanation.
 
-**English Language Controls**
+### English Language Controls
+
 Any translation of this Agreement is provided for your convenience. The meanings of terms, conditions and representations herein are subject to the definitions and interpretations in the English language. Any translation provided may not accurately represent the information in the original English.
 
-**Customer Service**
+### Customer Service
+
 For customer service or additional information regarding your Card, please contact us at:
 
 Bongloy Payments PLC
