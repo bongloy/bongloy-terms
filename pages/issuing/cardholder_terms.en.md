@@ -143,7 +143,7 @@ Your Card and your obligations under this Agreement may not be assigned. We may 
 
 We may amend or change the terms and conditions of this Agreement at any time. You will be notified of any change in the manner provided by applicable law prior to the effective date of the change. However, if the change is made for security purposes, we can implement such change without prior notice. We may cancel or suspend your Card or this Agreement at any time. You may cancel this Agreement by returning the Card to us. Your cancellation of this Agreement will not affect any of our rights or your obligations arising under this Agreement prior to termination.
 
-In the event that your Card Account is cancelled, closed, or terminated for any reason, you may request the unused balance to be returned to you via a check to the mailing address we have in our records. There is a fee for this service. Please refer to the fee schedule above. The Issuer reserves the right to refuse to return any unused balance amount less than $1.00.
+In the event that your Card Account is cancelled, closed, or terminated for any reason, you may request the unused balance to be returned to you via a check to the mailing address we have in our records. There is a fee for this service. Please refer to the fee schedule above. The Issuer reserves the right to refuse to return any unused balance amount less than US$1.00.
 
 ### Information About Your Right to Dispute Transactions
 
