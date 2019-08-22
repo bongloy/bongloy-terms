@@ -45,10 +45,15 @@ You may not request an additional Card for another person. Each family member mu
 By activating the Card or by retaining, using or authorizing the use of the Card, you represent and warrant to us that: 
 
  (i) you are at least 15 years of age;
+ 
  (ii) you are a legal resident residing in Cambodia;
+ 
  (iii) you have provided us with a verifiable Photo ID Card, a Cambodia street address;
+ 
  (iv) the personal information that you provide to us in connection with the Card is true, correct and complete;
+ 
  (v) you received a copy of this Agreement and agree to be bound by and to comply     with its terms; and complete;
+ 
  (vi) you accept the Card.
 
 A minor less than 15 years of age or without a government issued photo ID; a legal guardian must submit a parental sponsorship application before the card is activated. 
