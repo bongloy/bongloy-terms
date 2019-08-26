@@ -150,7 +150,7 @@ In the event that your Card Account is cancelled, closed, or terminated for any 
 
 ### Information About Your Right to Dispute Transactions
 
-In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 or email.  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
+In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 or email(support@bongloy.com).  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
 
 You agree to cooperate fully with our investigation and to provide any additional information or documentation we may need for the claim.
 
