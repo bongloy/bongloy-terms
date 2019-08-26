@@ -45,15 +45,15 @@ You may not request an additional Card for another person. Each family member mu
 By activating the Card or by retaining, using or authorizing the use of the Card, you represent and warrant to us that: 
 
  (i) you are at least 15 years of age;
- 
+
  (ii) you are a legal resident residing in Cambodia;
- 
+
  (iii) you have provided us with a verifiable Photo ID Card, a Cambodia street address;
- 
+
  (iv) the personal information that you provide to us in connection with the Card is true, correct and complete;
- 
+
  (v) you received a copy of this Agreement and agree to be bound by and to comply     with its terms; and complete;
- 
+
  (vi) you accept the Card.
 
 A minor less than 15 years of age or without a government issued photo ID; a legal guardian must submit a parental sponsorship application before the card is activated. 
@@ -71,11 +71,11 @@ With your PIN, you may use your Card to obtain cash from any Automated Teller Ma
 
 ### Loading Your Card
 
-You may add funds to your Card, called "value loading", at any time. The minimum amount of the initial value load is US$$5.00$. The Card must be loaded for at least the minimum amount at the time the Card is purchased at the branch location. The minimum amount of each value reload is US$$5.00$ via agent partner or online via the consumer website. The maximum amount of the initial value load at the time of Card purchase is US$$500.00$ at the agent partner location. The maximum amount of each value reload is US$$2,500.00$. Online via the consumer website the maximum reload amount is US$$500.00$ per transaction; up to US$2,500.00 per day.
+You may add funds to your Card, called "value loading", at any time. The minimum amount of the initial value load is US$5.00. The Card must be loaded for at least the minimum amount at the time the Card is purchased at the branch location. The minimum amount of each value reload is US$5.00 via agent partner or online via the consumer website. The maximum amount of the initial value load at the time of Card purchase is US$500.00 at the agent partner location. The maximum amount of each value reload is US$2,500.00. Online via the consumer website the maximum reload amount is US$500.00 per transaction; up to US$2,500.00 per day.
 
 ### Using Your Card/Features
 
-The maximum amount that can be spent on your Card per day is US$$2,500.00$. The maximum value of your Card is restricted to US$$2,500.00$. You may use your Card to purchase or lease goods or services everywhere UnionPay cards or BONGLOY cards are accepted as long as you do not exceed the value available on your Card Account. Some merchants do not allow cardholders to conduct split transactions where you would use the Card as partial payment for goods and services and pay the remainder of the balance with another form of legal tender. If you wish to conduct a split transaction and it is permitted by the merchant, you must tell the merchant to charge only the exact amount of funds available on the Card to the Card. You must then arrange to pay the difference using another payment method. Some merchants may require payment for the remaining balance in cash. If you fail to inform the merchant that you would like to complete a split transaction prior to swiping your Card, your Card is likely to be declined. If you use your Card at an automated fuel dispenser ("pay at the pump"), the merchant may pre-authorize the transaction amount up to US$99.00 or more. If your Card is declined, even though you have sufficient funds available, pay for your purchase inside with the cashier. If you use your Card at a restaurant, a hotel, for a car rental purchase, or for similar purchases, the merchant may pre-authorize the transaction amount for the purchase amount plus up to 15% or more to ensure there are sufficient funds available to cover tips or incidental expenses incurred. Any pre-authorization amount will place a "hold" on your available funds until the merchant sends us the final payment amount of your purchase. Once the final payment amount is received, the preauthorization amount on hold will be removed. It may take up to ten (10) days for the hold to be removed. During the hold period, you will not have access to the pre-authorized amount.
+The maximum amount that can be spent on your Card per day is US$2,500.00. The maximum value of your Card is restricted to US$2,500.00. You may use your Card to purchase or lease goods or services everywhere UnionPay cards or BONGLOY cards are accepted as long as you do not exceed the value available on your Card Account. Some merchants do not allow cardholders to conduct split transactions where you would use the Card as partial payment for goods and services and pay the remainder of the balance with another form of legal tender. If you wish to conduct a split transaction and it is permitted by the merchant, you must tell the merchant to charge only the exact amount of funds available on the Card to the Card. You must then arrange to pay the difference using another payment method. Some merchants may require payment for the remaining balance in cash. If you fail to inform the merchant that you would like to complete a split transaction prior to swiping your Card, your Card is likely to be declined. If you use your Card at an automated fuel dispenser ("pay at the pump"), the merchant may pre-authorize the transaction amount up to US$99.00 or more. If your Card is declined, even though you have sufficient funds available, pay for your purchase inside with the cashier. If you use your Card at a restaurant, a hotel, for a car rental purchase, or for similar purchases, the merchant may pre-authorize the transaction amount for the purchase amount plus up to 15% or more to ensure there are sufficient funds available to cover tips or incidental expenses incurred. Any pre-authorization amount will place a "hold" on your available funds until the merchant sends us the final payment amount of your purchase. Once the final payment amount is received, the preauthorization amount on hold will be removed. It may take up to ten (10) days for the hold to be removed. During the hold period, you will not have access to the pre-authorized amount.
 
 For security reasons, we may limit the amount or number of transactions you can make on your Card. Your Card cannot be redeemed for cash. You may not use your Card for online gambling or any illegal transaction.
 
@@ -116,26 +116,28 @@ All fee amounts will be withdrawn from your Card Account and will be assessed as
 ### Confidentiality
 
 We may disclose information to third parties about your Card or the transactions you make:
-(1)     Where it is necessary for completing transactions;
-(2)     In order to verify the existence and condition of your Card for a third party, such as merchant;
-(3)     In order to comply with a government agency, court order, or other legal or administrative reporting requirements;
-(4)     If you consent by giving us your written permission;
-(5)     To our employees, auditors, affiliates, service providers, or attorneys as needed; or
-(6)     Otherwise as necessary to fulfill our obligations under this Agreement.
 
+1. Where it is necessary for completing transactions;
+2. In order to verify the existence and condition of your Card for a third party, such as merchant;
+3. In order to comply with a government agency, court order, or other legal or administrative reporting requirements;
+4. If you consent by giving us your written permission;
+5. To our employees, auditors, affiliates, service providers, or attorneys as needed; or
+6. Otherwise as necessary to fulfill our obligations under this Agreement.
+    
 ### Our Liability for Failure to Complete Transactions
 
 If we do not properly complete a transaction from your Card on time or in the correct amount according to our Agreement with you, we will be liable for your losses or damages. However, there are some exceptions. We will not be liable, for instance:
-(1)    If through no fault of ours, you do not have enough funds available on your Card to complete the transaction;
-(2)     If a merchant refuses to accept your Card;
-(3)     If an ATM where you are making a cash withdrawal does not have enough cash;
-(4)     If an electronic terminal where you are making a transaction does not operate properly, and you knew about the problem when you initiated the transaction;
-(5)     If access to your Card has been blocked after you reported your Card lost or stolen;
-(6)     If there is a hold or your funds are subject to legal or administrative process or other encumbrance restricting their use;
-(7)     If we have reason to believe the requested transaction is unauthorized;
-(8)     If circumstances beyond our control (such as fire, flood, or computer or communication failure) prevent the completion of the transaction, despite reasonable precautions that we have taken; or
-(9)     Any other exceptions stated in our Agreement with you.
 
+1. If through no fault of ours, you do not have enough funds available on your Card to complete the transaction;
+2. If a merchant refuses to accept your Card;
+3. If an ATM where you are making a cash withdrawal does not have enough cash;
+4. If an electronic terminal where you are making a transaction does not operate properly, and you knew about the problem when you initiated the transaction;
+5. If access to your Card has been blocked after you reported your Card lost or stolen;
+6. If there is a hold or your funds are subject to legal or administrative process or other encumbrance restricting their use;
+7. If we have reason to believe the requested transaction is unauthorized;
+8. If circumstances beyond our control (such as fire, flood, or computer or communication failure) prevent the completion of the transaction, despite reasonable precautions that we have taken; or
+9. Any other exceptions stated in our Agreement with you.
+     
 ### Your Liability for Unauthorized Transfers
 
 Contact us at once if you believe your Card has been lost or stolen. Telephoning is the best way to minimize your possible losses. If you believe your Card has been lost or stolen, or that someone has transferred or may transfer money from your Card Account without your permission, call +855(0) 23 532 0888. If your Card has been lost or stolen, we will close your Card Account to keep losses down.
@@ -168,8 +170,11 @@ Any translation of this Agreement is provided for your convenience. The meanings
 
 For customer service or additional information regarding your Card, please contact us at:
 
-Bongloy Payments PLC
+Bongloy Payments PLC 
+
 Prepaid Card
+
 No 87 Street 63
 Phnom Penh, Cambodia
+
 Tel:+855(0)23 532 0888
