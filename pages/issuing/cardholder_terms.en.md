@@ -22,7 +22,7 @@ Write down your Card number and the customer service phone number provided in th
 
 ## IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW CARD ACCOUNT
 
-To help the government fight the funding of terrorism and money laundering activities, Cambodia law, requires all financial institutions to obtain, verify, and record information that identifies each person who opens a Card Account. What this means for you: When you open a Card Account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see a copy of your national ID or passport, or other identifying documents.
+To help the government fight the funding of terrorism and money laundering activities, Cambodian law, requires all financial institutions to obtain, verify, and record information that identifies each person who opens a Card Account. What this means for you: When you open a Card Account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see a copy of your national ID or passport, or other identifying documents.
 
 ### Activate Your Card
 
@@ -46,11 +46,10 @@ By activating the Card or by retaining, using or authorizing the use of the Card
 
  1. you are at least 15 years of age;
  2. you are a legal resident residing in Cambodia;
- 3. you have provided us with a verifiable Photo ID Card, a Cambodia street address;
+ 3. you have provided us with a verifiable Photo ID Card, a Cambodian street address;
  4. the personal information that you provide to us in connection with the Card is true, correct and complete;
- 5. you received a copy of this Agreement and agree to be bound by and to comply     with its terms; and complete;
+ 5. you received a copy of this Agreement and agree to be bound by and to comply with its terms; and complete;
  6. you accept the Card.
-
 
 A minor less than 15 years of age or without a government issued photo ID; a legal guardian must submit a parental sponsorship application before the card is activated. 
 
@@ -67,7 +66,7 @@ With your PIN, you may use your Card to obtain cash from any Automated Teller Ma
 
 ### Loading Your Card
 
-You may add funds to your Card, called "value loading", at any time. The minimum amount of the initial value load is US$5.00. The Card must be loaded for at least the minimum amount at the time the Card is purchased at the branch location. The minimum amount of each value reload is US$5.00 via agent partner or online via the consumer website. The maximum amount of the initial value load at the time of Card purchase is US$500.00 at the agent partner location. The maximum amount of each value reload is US$2,500.00. Online via the consumer website the maximum reload amount is US$500.00 per transaction; up to US$2,500.00 per day.
+You may add funds to your Card, called "value loading", at any time. The minimum amount of the initial value load is US$5.00. The minimum amount of each value reload is US$5.00 via agent partner or participating partners's mobile application. The maximum amount of the initial value load at the time of Card purchase is US$500.00. The maximum amount of each value reload is US$2,500.00. A maximum reload amount is US$500.00 per transaction via a partner's mobile application; up to US$2,500.00 per day. 
 
 ### Using Your Card/Features
 
@@ -87,11 +86,7 @@ If you are entitled to a refund for any reason for goods or services obtained wi
 
 ### Card Replacement
 
-If you need to replace your Card for any reason, please return to a branch of the financial institution where the Card was purchased to obtain an immediate replacement, or contact us at +855(0)23 532 0888 to request a replacement Card be mailed to you. You will be required to provide personal information which may include your Card number, full name, transaction history, etc. There is a fee for replacing your Card. Refer to the fee schedule provided within this document.
-
-### Card Transfers
-
-You may transfer funds to another card on the program.
+If you need to replace your Card for any reason, please place the order via the participating partner mobile application. There is a fee for replacing your Card. Refer to the fee schedule provided within this document.
 
 ### Transactions Made In Foreign Currencies
 
@@ -103,7 +98,7 @@ You should get a receipt at the time you make a transaction using your Card. You
 
 ### Card Account Balance/Periodic Statements
 
-You are responsible for keeping track of your Card Account available balance. Merchants generally will not be able to determine your available balance. It’s important to know your available balance before making any transaction. You may obtain information about the amount of money you have remaining in your Card Account by calling +855(0)23 532 0888 or viewing the available balance in the App.
+You are responsible for keeping track of your Card Account available balance. Merchants generally will not be able to determine your available balance. It’s important to know your available balance before making any transaction. You may obtain information about the amount of money you have remaining in your Card Account by viewing the available balance in the App.
 
 ### Fee Schedule
 
@@ -136,7 +131,7 @@ If we do not properly complete a transaction from your Card on time or in the co
      
 ### Your Liability for Unauthorized Transfers
 
-Contact us at once if you believe your Card has been lost or stolen. Telephoning is the best way to minimize your possible losses. If you believe your Card has been lost or stolen, or that someone has transferred or may transfer money from your Card Account without your permission, call +855(0) 23 532 0888. If your Card has been lost or stolen, we will close your Card Account to keep losses down.
+Contact us at once if you believe your Card has been lost or stolen. Telephoning is the best way to minimize your possible losses. If you believe your Card has been lost or stolen, or that someone has transferred or may transfer money from your Card Account without your permission, send email to contact@bongloy.com. If your Card has been lost or stolen, we will close your Card Account to keep losses down.
 
 ### Other Miscellaneous Terms
 
@@ -150,7 +145,7 @@ In the event that your Card Account is cancelled, closed, or terminated for any 
 
 ### Information About Your Right to Dispute Transactions
 
-In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 or email(support@bongloy.com).  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
+In case of a discrepancy or questions about your electronic transactions, please send us an email dispute@bongloy.com.  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
 
 You agree to cooperate fully with our investigation and to provide any additional information or documentation we may need for the claim.
 
@@ -174,3 +169,5 @@ No 87 Street 63
 Phnom Penh, Cambodia
 
 Tel:+855(0)23 532 0888
+
+contact@bongloy.com
