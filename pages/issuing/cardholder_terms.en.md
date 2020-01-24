@@ -4,7 +4,8 @@
 
 Terms and Conditions/Definitions for the BONGLOY UnionPay International Prepaid Card.
 
-This Cardholder Agreement ("Agreement") outlines the terms and conditions under which the UnionPay Prepaid Card has been issued to you by Bongloy Payments PLC, Phnom Penh, Cambodia ("BONGLOY" or "Issuer"). 
+
+This Cardholder Agreement ("Agreement") outlines the terms and conditions under which the UnionPay Prepaid Card has been issued to you by Bongloy Payments PLC., Phnom Penh, Cambodia ("BONGLOY" or "Issuer"). 
 
 The Issuer is a licensed financial institution governed by the National Bank of Cambodia. 
 
@@ -16,7 +17,8 @@ The Issuer is a licensed financial institution governed by the National Bank of 
 
 "We," "us," and "our" mean the Issuer, our successors, affiliates or assignees. 
 
-You acknowledge and agree that the value available in the Card Account is limited to the funds that you have loaded into the Card Account or have been loaded into the Card Account on your behalf. You agree to sign the back of the Card immediately upon receipt. The expiration date of the Card is identified on the front of your Card. The Card is a prepaid card. The Card is not connected in any way to any other account. The Card is not a credit card. The Card is not for resale. You will not receive any interest on your funds in the Card Account. The Card will remain the property of the Issuer and must be surrendered upon demand. The Card is non-transferable and it may be canceled, repossessed, or revoked at any time without prior notice subject to applicable law.  We may refuse to process any transaction that we believe may violate the terms of this Agreement. Our business days are Monday through Friday, excluding public holidays, even if we are open. Any references to "days" found in this Agreement are calendar days unless indicated otherwise.
+You acknowledge and agree that the value available in the Card Account is limited to the funds that you have loaded into the Card Account or have been loaded into the Card Account on your behalf. You agree to sign the back of the Card immediately upon receipt. The expiration date of the Card is identified on the front or the back of your Card. The Card is a prepaid card. The Card is not a credit card. The Card will remain the property of the Issuer and must be surrendered upon demand. The Card is non-transferable and it may be canceled, repossessed, or revoked at any time without prior notice subject to applicable law.  We may refuse to process any transaction that we believe may violate the terms of this Agreement. Our business days are Monday through Friday, excluding public holidays, even if we are open. Any references to "days" found in this Agreement are calendar days unless indicated otherwise.
+
 
 Write down your Card number and the customer service phone number provided in this Agreement on a separate piece of paper in case your Card is lost, stolen, or destroyed. Keep the paper in a safe place. Please read this Agreement carefully and keep it for future reference.
 
