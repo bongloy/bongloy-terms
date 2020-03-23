@@ -18,18 +18,17 @@ The Issuer is a licensed financial institution governed by the National Bank of 
 
 You acknowledge and agree that the value available in the Card Account is limited to the funds that you have loaded into the Card Account or have been loaded into the Card Account on your behalf. You agree to sign the back of the Card immediately upon receipt. The expiration date of the Card is identified on the front or the back of your Card. The Card is a prepaid card. The Card is not a credit card. The Card will remain the property of the Issuer and must be surrendered upon demand. The Card is non-transferable and it may be canceled, repossessed, or revoked at any time without prior notice subject to applicable law.  We may refuse to process any transaction that we believe may violate the terms of this Agreement. Our business days are Monday through Friday, excluding public holidays, even if we are open. Any references to "days" found in this Agreement are calendar days unless indicated otherwise.
 
-
 Write down your Card number and the customer service phone number provided in this Agreement on a separate piece of paper in case your Card is lost, stolen, or destroyed. Keep the paper in a safe place. Please read this Agreement carefully and keep it for future reference.
 
 ## IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW CARD ACCOUNT
 
-To help the government fight the funding of terrorism and money laundering activities, Cambodia law, requires all financial institutions to obtain, verify, and record information that identifies each person who opens a Card Account. What this means for you: When you open a Card Account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see a copy of your national ID or passport, or other identifying documents.
+To help the government fight the funding of terrorism and money laundering activities, Cambodian law, requires all financial institutions to obtain, verify, and record information that identifies each person who opens a Card Account. What this means for you: When you open a Card Account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see a copy of your national ID or passport, or other identifying documents.
 
 ### Activate Your Card
 
 Your Card must be activated. To activate your Card, launch the mobile application associated with your card.  Click on Activation.  Or request to have an activation link sent to your mobile device.
 
-### Personal Identification Number
+### Personal Identification Number (PIN)
 
 After you activate your Card, you will request to set a 6 digit PIN. You should not write or keep your PIN with your Card. Never share your PIN with anyone. When entering your PIN, be sure it cannot be observed by others and do not enter your PIN into any terminal that appears to be modified or suspicious. If you believe that anyone has gained unauthorized access to your PIN, you should advise us immediately following the procedures in the paragraph labeled "Your Liability for Unauthorized Transfers." At any time, you can launch your application to disable the card or reset the PIN.
 
@@ -45,12 +44,12 @@ You may not request an additional Card for another person. Each family member mu
 
 By activating the Card or by retaining, using or authorizing the use of the Card, you represent and warrant to us that: 
 
- 1. you are at least 15 years of age;
- 2. you are a legal resident residing in Cambodia;
- 3. you have provided us with a verifiable Photo ID Card, a Cambodian street address;
- 4. the personal information that you provide to us in connection with the Card is true, correct and complete;
- 5. you received a copy of this Agreement and agree to be bound by and to comply with its terms; and complete;
- 6. you accept the Card.
+1. you are at least 15 years of age;
+2. you are a legal resident residing in Cambodia;
+3. you have provided us with a verifiable Photo ID Card, a Cambodian street address;
+4. the personal information that you provide to us in connection with the Card is true, correct and complete;
+5. you received a copy of this Agreement and agree to be bound by and to comply with its terms; and 
+6. you accept the Card.
 
 A minor less than 15 years of age or without a government issued photo ID; a legal guardian must submit a parental sponsorship application before the card is activated. 
 
@@ -60,9 +59,9 @@ With your PIN, you may use your Card to obtain cash from any Automated Teller Ma
 
 | Type of card                                  | Prepaid Card | Virtual        |
 |:---------------------------------------------:|:------------:|:--------------:|
-| Cash withdrawal limit (per day)               | $1000      | Not Applicable |
-| Purchase limit-Off line (per day)             | $2,500     | $2,500       |
-| Purchase limit-On line (per day)              | $500       | $500         |
+| Cash withdrawal limit (per day)               | US$1000      | Not Applicable |
+| Purchase limit-Off line (per day)             | US$2,500     | US$2,500       |
+| Purchase limit-On line (per day)              | US$500       | US$500         |
 | Maximum cash withdrawal transaction (per day) | 5 times      | Not Applicable |
 
 ### Loading Your Card
@@ -89,6 +88,10 @@ If you are entitled to a refund for any reason for goods or services obtained wi
 
 If you need to replace your Card for any reason, please return to a branch of the financial institution where the Card was purchased to obtain an immediate replacement, or launch your mobile app., or contact us at +855(0)23 532 0888 to request a replacement Card be mailed to you. You will be required to provide personal information which may include your Card number, full name, transaction history, etc. There is a fee for replacing your Card. 
 
+### Card Transfers
+
+You may transfer funds to another card on the program.
+
 ### Transactions Made In Foreign Currencies
 
 If you obtain your funds or make a purchase in a currency other than the currency in which your Card was issued, the amount deducted from your funds will be converted by BONGLOY into an amount in the currency of your Card. The exchange rate between the transaction currency and the billing currency used for processing international transactions is a rate selected by BONGLOY from the range of rates available in wholesale currency markets for the applicable central processing date, which may vary from the rate BONGLOY itself receives or the government-mandated rate in effect for the applicable central processing date. 
@@ -105,7 +108,7 @@ You are responsible for keeping track of your Card Account available balance. Me
 
 All fee amounts will be withdrawn from your Card Account and will be assessed as long as there is a remaining balance on your Card Account, except where prohibited by law. Anytime your remaining Card Account balance is less than the fee amount being assessed, the balance of your Card Account will be applied to the fee amount resulting in a zero balance on your Card Account.
 
-The fee schedule can be found at : your mobile app.
+The fee schedule can be found at your mobile app.
 
 ### Confidentiality
 
@@ -117,7 +120,7 @@ We may disclose information to third parties about your Card or the transactions
 4. If you consent by giving us your written permission;
 5. To our employees, auditors, affiliates, service providers, or attorneys as needed; or
 6. Otherwise as necessary to fulfill our obligations under this Agreement.
-    
+
 ### Our Liability for Failure to Complete Transactions
 
 If we do not properly complete a transaction from your Card on time or in the correct amount according to our Agreement with you, we will be liable for your losses or damages. However, there are some exceptions. We will not be liable, for instance:
@@ -131,10 +134,14 @@ If we do not properly complete a transaction from your Card on time or in the co
 7. If we have reason to believe the requested transaction is unauthorized;
 8. If circumstances beyond our control (such as fire, flood, or computer or communication failure) prevent the completion of the transaction, despite reasonable precautions that we have taken; or
 9. Any other exceptions stated in our Agreement with you.
-     
+
 ### Your Liability for Unauthorized Transfers
 
-Contact us at once if you believe your Card has been lost or stolen. Telephoning is the best way to minimize your possible losses. If you believe your Card has been lost or stolen, or that someone has transferred or may transfer money from your Card Account without your permission, send email to contact@bongloy.com. If your Card has been lost or stolen, we will close your Card Account to keep losses down.
+Contact us at once if you believe your Card has been lost or stolen. Telephoning is the best way to minimize your possible losses. If you believe your Card has been lost or stolen, or that someone has transferred or may transfer money from your Card Account without your permission:
+
+- Use your mobile app. to deactivate or freeze your card account; or
+
+- Contact us at +855(0) 23 532 0888. If your Card has been lost or stolen, we will close your Card Account to keep losses down.
 
 ### Other Miscellaneous Terms
 
@@ -144,17 +151,21 @@ Your Card and your obligations under this Agreement may not be assigned. We may 
 
 We may amend or change the terms and conditions of this Agreement at any time. You will be notified of any change in the manner provided by applicable law prior to the effective date of the change. However, if the change is made for security purposes, we can implement such change without prior notice. We may cancel or suspend your Card or this Agreement at any time. You may cancel this Agreement by returning the Card to us. Your cancellation of this Agreement will not affect any of our rights or your obligations arising under this Agreement prior to termination.
 
-In the event that your Card Account is cancelled, closed, or terminated for any reason, you may request the unused balance to be returned to you via a check to the mailing address we have in our records. There is a fee for this service. Please refer to the fee schedule above. The Issuer reserves the right to refuse to return any unused balance amount less than $1.00.
+In the event that your Card Account is cancelled, closed, or terminated for any reason, you may request the unused balance to be returned to you via a check to the mailing address we have in our records. There is a fee for this service. Please refer to the fee schedule above. The Issuer reserves the right to refuse to return any unused balance amount less than US$1.00.
 
 ### Information About Your Right to Dispute Transactions
 
-In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 .  You must contact us no later than sixty (60) calendar days after we posted the transaction(s) to the Card Account. 
+In case of a discrepancy or questions about your electronic transactions, call +855(0)23 532 0888 .  You must contact us no later than thirty (30) calendar days after we posted the transaction(s) to the Card Account. 
 
 You agree to cooperate fully with our investigation and to provide any additional information or documentation we may need for the claim.
 
-Once we have the required details, information, and/or documents, we will determine whether a discrepancy occurred. If we ask you to put details in writing and you do not provide them within sixty (60) calendar days of the date we posted the transaction(s) you are questioning, we may not be able to resolve the claim in your favor.
+Once we have the required details, information, and/or documents, we will determine whether a discrepancy occurred. If we ask you to put details in writing and you do not provide them within thirty (30) calendar days of the date we posted the transaction(s) you are questioning, we may not be able to resolve the claim in your favor.
+
+In some circumstances, card scheme rules allow us to charge a transaction on the account back to the merchant with whom you made the transaction. This is known as a chargeback. If it is available, we will claim a charge right for a transaction on your account if you ask us to do so in written; the transaction is higher than US$30.00; and you give us the information and material we require to support a chargeback, within thirty (30) calendar days after the date of the statement on which the transaction is recorded. The ability to dispute a transaction may be lost if it is not reported to us within these timeframes.
 
 We will tell you the results in writing after completing our investigation. If we determine a discrepancy occurred we will correct the discrepancy promptly and credit the Card Account. If we decide there was no discrepancy, we will send you a written explanation.
+
+You acknowledge and agree that the existence of a dispute or chargeback shall not relieve your obligation to pay dispute handling charge or applicable fee and you agree to pay promptly such charges, notwithstanding any dispute or chargeback whatsoever.
 
 ### English Language Controls
 
@@ -171,6 +182,4 @@ Prepaid Card
 No 87 Street 63
 Phnom Penh, Cambodia
 
-Tel:+855(0)23 532 0888
-
-
+Tel:+855(0)23 532 0888s
